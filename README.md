@@ -1,6 +1,4 @@
--full laravel application with api and web application
--admin dashboard with cruds using rules and permissions
--mutliauth users
--notifications and sending emails
--
--
+-full laravel application with api and web application<br>
+-admin dashboard with cruds using rules and permissions<br>
+-mutliauth users<br>
+-notifications and sending emails<br>
